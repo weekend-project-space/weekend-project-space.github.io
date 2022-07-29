@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+## 周末项目
 
-You can use the [editor on GitHub](https://github.com/weekend-project-space/weekend-project-space.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+大家好，我是瑞东，在很久之前我有一个目标（成为自由民），在工作了几年之后我开始忘却这件事情了，
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+直到最近受到[Ben](https://tinyprojects.dev) 和 [alexwest](https://www.alexwest.co) 的启发，决定利用周末的时间做一些对这个世界有价值的项目，现在我26岁，我希望今年通过周末的时间挣到1500元/月
 
-### Markdown
+这是一个实验，我们能否通过自己的技能而非雇佣养活自己和家人，能否财务自由从而可以支配自己的时间。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+现在是2022年7月29日
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/weekend-project-space/weekend-project-space.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+> 大胆策划 小心实施
