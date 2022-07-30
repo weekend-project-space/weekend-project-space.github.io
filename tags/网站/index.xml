@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>网站 on Weekend Project</title>
+    <link>https://weekend-project-space.github.io/tags/%E7%BD%91%E7%AB%99/</link>
+    <description>Recent content in 网站 on Weekend Project</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright © 2022</copyright>
+    <lastBuildDate>Fri, 29 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://weekend-project-space.github.io/tags/%E7%BD%91%E7%AB%99/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Weekend Project 上线了</title>
+      <link>https://weekend-project-space.github.io/posts/weekend-project-web-site/</link>
+      <pubDate>Fri, 29 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://weekend-project-space.github.io/posts/weekend-project-web-site/</guid>
+      <description>本站采用了Hugo 进行驱动 ，主题采用的是 hugo-paper， 在github进行托管, 花费了2个小时的时间进行选型搭建。
+基地 这里是一个发布项目及通知的基地，后面我会尝试加入订阅功能，这样可以更方便的找到我，在国内如rss 和email 使用频率相对较低，但是微信公众号我个人有不喜欢，如果你有好的推荐也可以联系我，这是我的邮箱 c3VueHpnQGdtYWlsLmNvbQ==
+目前打算先把栏目分成两类一类是周末项目，一类是周末项目相关的博客，在项目里面会谈到思路和效果展示等，博客会更新一些项目后续有趣的一些事情
+进入飞船 这是一个小的尝试，我已经在考虑后面要做点什么小项目了。</description>
+    </item>
+    
+  </channel>
+</rss>
