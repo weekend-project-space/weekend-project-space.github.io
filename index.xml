@@ -9,6 +9,24 @@
     <copyright>Copyright © 2022</copyright>
     <lastBuildDate>Fri, 29 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://weekend-project-space.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>idea-list</title>
+      <link>https://weekend-project-space.github.io/idea-list/</link>
+      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://weekend-project-space.github.io/idea-list/</guid>
+      <description>你投票我实现 我有一个 todo 列表里面有很多有意思的想法，它们只是想法就待在那里，也许你也有这么一个 todo 列表。
+这是从我的想法列表里筛选出的几个
+你可以为它投票，我会从里面筛选出排名最高的几个然后进行选择 ，用周末的时间尝试把它实现
+idea-magic (将想法变成现实，我支持你的想法，这也是我的想法，有点类似product hunt)
+rss-&amp;gt;newslater (一个可以将rss转成newslater的小工具，站长和个人都可以免费使用)
+同网互传 （这个貌似有了一个，在想是否要做）
+vrhub (一个vr资源共享库 ，可以在线观看或体验vr游戏等)
+rss web 阅读器（pwa）
+可以在这里投票哦，你也可以贴出你的想法，让大家为它投票
+截止日期2022-08-06</description>
+    </item>
+    
+    <item>
       <title>Weekend Project 上线了</title>
       <link>https://weekend-project-space.github.io/posts/weekend-project-web-site/</link>
       <pubDate>Fri, 29 Jul 2022 00:00:00 +0000</pubDate>
