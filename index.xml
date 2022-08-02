@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Weekend Project</title>
-    <link>https://weekend-project-space.github.io/</link>
+    <link>http://weekendproject.space/</link>
     <description>Recent content on Weekend Project</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright © 2022</copyright>
-    <lastBuildDate>Fri, 29 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://weekend-project-space.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 29 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://weekendproject.space/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>idea-list</title>
-      <link>https://weekend-project-space.github.io/idea-list/</link>
+      <link>http://weekendproject.space/idea-list/</link>
       <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://weekend-project-space.github.io/idea-list/</guid>
+      <guid>http://weekendproject.space/idea-list/</guid>
       <description>你投票我实现 我有一个 todo 列表里面有很多有意思的想法，它们只是想法就待在那里，也许你也有这么一个 todo 列表。
 这是从我的想法列表里筛选出的几个
 你可以为它投票，我会从里面筛选出排名最高的几个然后进行选择 ，用周末的时间尝试把它实现
@@ -28,10 +28,10 @@ rss web 阅读器（pwa）
     
     <item>
       <title>Weekend Project 上线了</title>
-      <link>https://weekend-project-space.github.io/posts/weekend-project-web-site/</link>
+      <link>http://weekendproject.space/posts/weekend-project-web-site/</link>
       <pubDate>Fri, 29 Jul 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://weekend-project-space.github.io/posts/weekend-project-web-site/</guid>
+      <guid>http://weekendproject.space/posts/weekend-project-web-site/</guid>
       <description>本站采用了Hugo 进行驱动 ，主题采用的是 hugo-paper， 在github进行托管， 花费了2个小时的时间进行选型搭建。
 基地 这里是一个发布项目及通知的基地，后面我会尝试加入订阅功能，这样可以更方便的找到我，在国内如rss 和email 使用频率相对较低，但是微信公众号我个人不太喜欢，如果你有好的推荐也可以联系我，这是我的邮箱 c3VueHpnQGdtYWlsLmNvbQ==
 目前打算先把栏目分成两类一类是周末项目，一类是周末项目相关的博客，在项目里面会谈到思路和效果展示等，博客会更新一些项目后续有趣的一些事情
