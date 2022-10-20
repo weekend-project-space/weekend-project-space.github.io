@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>blog on Weekend Project</title>
-    <link>http://weekendproject.space/categories/blog/</link>
+    <link>https://weekendproject.space/categories/blog/</link>
     <description>Recent content in blog on Weekend Project</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright © 2022</copyright>
-    <lastBuildDate>Sat, 08 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://weekendproject.space/categories/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 08 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://weekendproject.space/categories/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>WebFollow 22年10月份最新一组数据</title>
-      <link>http://weekendproject.space/posts/webfollow-data-22-10-20/</link>
+      <link>https://weekendproject.space/posts/webfollow-data-22-10-20/</link>
       <pubDate>Sat, 08 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://weekendproject.space/posts/webfollow-data-22-10-20/</guid>
+      <guid>https://weekendproject.space/posts/webfollow-data-22-10-20/</guid>
       <description>访问数据
 22-10-08 上线两个月 累计 PV 13,155 UV 2,502 Feed 304
 22-10-18 上线两个月10天 累计PV 19,759 UV 3,030 Feed 495
@@ -25,10 +25,10 @@
     
     <item>
       <title>Weekend Project 上线了</title>
-      <link>http://weekendproject.space/posts/weekend-project-web-site/</link>
+      <link>https://weekendproject.space/posts/weekend-project-web-site/</link>
       <pubDate>Fri, 29 Jul 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://weekendproject.space/posts/weekend-project-web-site/</guid>
+      <guid>https://weekendproject.space/posts/weekend-project-web-site/</guid>
       <description>本站采用了Hugo 进行驱动 ，主题采用的是 hugo-paper， 在github进行托管， 花费了2个小时的时间进行选型搭建。
 基地 这里是一个发布项目及通知的基地，后面我会尝试加入订阅功能，这样可以更方便的找到我，在国内如rss 和email 使用频率相对较低，但是微信公众号我个人不太喜欢，如果你有好的推荐也可以联系我，这是我的邮箱 c3VueHpnQGdtYWlsLmNvbQ==
 目前打算先把栏目分成两类一类是周末项目，一类是周末项目相关的博客，在项目里面会谈到思路和效果展示等，博客会更新一些项目后续有趣的一些事情

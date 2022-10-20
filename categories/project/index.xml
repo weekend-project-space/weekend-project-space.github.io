@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>project on Weekend Project</title>
-    <link>http://weekendproject.space/categories/project/</link>
+    <link>https://weekendproject.space/categories/project/</link>
     <description>Recent content in project on Weekend Project</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright © 2022</copyright>
-    <lastBuildDate>Sat, 08 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://weekendproject.space/categories/project/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 08 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://weekendproject.space/categories/project/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>JSON在线格式化</title>
-      <link>http://weekendproject.space/posts/json-tool/</link>
+      <link>https://weekendproject.space/posts/json-tool/</link>
       <pubDate>Sat, 08 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://weekendproject.space/posts/json-tool/</guid>
+      <guid>https://weekendproject.space/posts/json-tool/</guid>
       <description>开发消耗
 开发用时:3小时+ 页面部署在github page上 技术 js + css + html 功能特性
 利用闲余的时间开发了一个json在线格式化工具：
@@ -25,10 +25,10 @@
     
     <item>
       <title>rss read 上线了 (webfollow1.5)</title>
-      <link>http://weekendproject.space/posts/webfollow-1.5/</link>
+      <link>https://weekendproject.space/posts/webfollow-1.5/</link>
       <pubDate>Mon, 15 Aug 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://weekendproject.space/posts/webfollow-1.5/</guid>
+      <guid>https://weekendproject.space/posts/webfollow-1.5/</guid>
       <description>开发用时:20小时+ 费用:0元+ webfollow.cc 上线一周后积累了20个用户，由于上手门槛还是过于高，于是就有了 webfollow 的阅读版 (更易上手，所见即所得 read模式), 之前rss2letter转移到了 webfollow.cc/watch 下
 网站介绍 页面分成了三块
 首页 ： 用户订阅信息的聚合 探索 ： 不只是用户订阅的内容，还有更多相关的频道和信息 订阅 ： 管理订阅的rss可以方便快速的查看该rss频道下的内容 后台继续采用了webfollow-rss2letter 的后台, 前台采用vue+vite+pwa技术栈开发，用时2天多一点。
@@ -38,10 +38,10 @@
     
     <item>
       <title>webfollow 上线了</title>
-      <link>http://weekendproject.space/posts/webfollow/</link>
+      <link>https://weekendproject.space/posts/webfollow/</link>
       <pubDate>Mon, 08 Aug 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://weekendproject.space/posts/webfollow/</guid>
+      <guid>https://weekendproject.space/posts/webfollow/</guid>
       <description>开发用时:36小时+ 费用:200元+ 经过一周的时间的开发，第一个小项目webfollow.cc 上线了，它是一个结合rss订阅和newsletter的应用，它可以将你订阅的网站rss信息过滤后发送到你的邮箱，这是一个简短的介绍：
 少即是多,定制属于你的专属信息
 网站介绍 主页部分内容分成了
@@ -53,10 +53,10 @@
     
     <item>
       <title>Weekend Project 上线了</title>
-      <link>http://weekendproject.space/posts/weekend-project-web-site/</link>
+      <link>https://weekendproject.space/posts/weekend-project-web-site/</link>
       <pubDate>Fri, 29 Jul 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://weekendproject.space/posts/weekend-project-web-site/</guid>
+      <guid>https://weekendproject.space/posts/weekend-project-web-site/</guid>
       <description>本站采用了Hugo 进行驱动 ，主题采用的是 hugo-paper， 在github进行托管， 花费了2个小时的时间进行选型搭建。
 基地 这里是一个发布项目及通知的基地，后面我会尝试加入订阅功能，这样可以更方便的找到我，在国内如rss 和email 使用频率相对较低，但是微信公众号我个人不太喜欢，如果你有好的推荐也可以联系我，这是我的邮箱 c3VueHpnQGdtYWlsLmNvbQ==
 目前打算先把栏目分成两类一类是周末项目，一类是周末项目相关的博客，在项目里面会谈到思路和效果展示等，博客会更新一些项目后续有趣的一些事情
