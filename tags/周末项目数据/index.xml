@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright © 2022</copyright>
-    <lastBuildDate>Sat, 08 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://weekendproject.space/tags/%E5%91%A8%E6%9C%AB%E9%A1%B9%E7%9B%AE%E6%95%B0%E6%8D%AE/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 09 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://weekendproject.space/tags/%E5%91%A8%E6%9C%AB%E9%A1%B9%E7%9B%AE%E6%95%B0%E6%8D%AE/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>上阮老师的科技爱好者周刊了？</title>
+      <link>https://weekendproject.space/posts/webfollow-ruanyifeng-02-03/</link>
+      <pubDate>Thu, 09 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://weekendproject.space/posts/webfollow-ruanyifeng-02-03/</guid>
+      <description>2月3号，早上像往常一样上网站看订阅的信息，但怎么都加载不出来，看了一下后台数据库连接老是超时，起初以为是数据库数据多了的缘故，于是在线下测试了一下，很流畅，然后就向往常一样看了下访问统计，一看惊呆，2000+pv 100+访客，网站被攻击了吗？看了下来源，原来是来自阮老师的网站，一切就都联系起来了，然后紧急对网站做了改造，加了几处缓存，网站暂时可用了， 关于上阮老师周刊这件事,起因是三周前在 github 给阮老师周刊投了搞，于是 科技爱好者周刊 240 期 教育年限可以缩短吗？ 便有了 webfollow 的名字，感谢阮老师！
+最近几天累积pv近3w,相当于之前两个月的访问量，不得不感叹阮老师流量挺高的， 最近新增注册用户300+ 访客注册转化率12%-15%， 对这个数据还是比较满意的；关于更好的长期提供服务这块收费方式一直不明朗，近期不打算收费，但也有考虑收费的形式: &amp;ldquo;通过过滤信息的方式给用户推送高价值的订阅RSS信息 或则私有化部署的形式获取一些收益&amp;rdquo;，这一切还都停留在想法阶段，目前能做的就是把功能做的简单 高效 好用 易用 美观 和三方做出差异来，RSS阅读器这个类别下有很多同质化产品 做的比较大的有 feedly、inoreader 、 Reeder等产品，订阅源相同的情况下 他们目前在组织内容形式上没有什么差异，更多是内容的布局有所不同，打算后期在组织内容的形式上做出些好玩好用的东西来，如果你对这块感兴趣可以和我联系。</description>
+    </item>
+    
     <item>
       <title>WebFollow 22年10月份最新一组数据</title>
       <link>https://weekendproject.space/posts/webfollow-data-22-10-20/</link>
@@ -15,12 +25,11 @@
       
       <guid>https://weekendproject.space/posts/webfollow-data-22-10-20/</guid>
       <description>访问数据
-22-10-08 上线两个月 累计 PV 13,155 UV 2,502 Feed 304
-22-10-18 上线两个月10天 累计PV 19,759 UV 3,030 Feed 495
-功能开发
+ 22-10-08 上线两个月   累计 PV 13,155 UV 2,502 Feed 304
+  22-10-18 上线两个月10天   累计PV 19,759 UV 3,030 Feed 495
+ 功能开发
 上线后累计更新修改提交100余次 新增小功能二十几项
-增加了排序方式 新增了system-bar color 增加了路由支持 article 不跳页 增加了米黄色主题 增加了页面标题头跟随文章调整 调整了a 标签新窗口 增加了登录收藏 同步 阅读器布局调整 pc最小化调整 channel页增加type 查看 channel 背景图改为最近最热 增加了channel Icon 订阅提示 增加问题反馈 布局切换+ 动画 增加了三栏 卡片 标题 视图 增加了排序算法 增加了订阅快捷搜索（知乎 b站 微博） 增加了下拉加载 增加了加载骨架屏 pwa 触发添加桌面 若干次页面布局调整 若干次后台接口调整 优化了加载速度 &amp;hellip;&amp;hellip; 访问来源
-直接访问占比 65% 外部链接访问占比 34% 外部链接中 v2ex zhihu qq 访问来源最多 </description>
+ 增加了排序方式 新增了system-bar color 增加了路由支持 article 不跳页 增加了米黄色主题 增加了页面标题头跟随文章调整 调整了a 标签新窗口 增加了登录收藏 同步 阅读器布局调整 pc最小化调整 channel页增加type 查看 channel 背景图改为最近最热 增加了channel Icon 订阅提示 增加问题反馈 布局切换+ 动画 增加了三栏 卡片 标题 视图 增加了排序算法 增加了订阅快捷搜索（知乎 b站 微博） 增加了下拉加载 增加了加载骨架屏 pwa 触发添加桌面 若干次页面布局调整 若干次后台接口调整 优化了加载速度 &amp;hellip;&amp;hellip;  访问来源</description>
     </item>
     
   </channel>

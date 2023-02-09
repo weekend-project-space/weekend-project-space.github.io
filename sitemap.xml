@@ -3,33 +3,39 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://weekendproject.space/</loc>
-    <lastmod>2022-10-08T00:00:00+00:00</lastmod>
+    <lastmod>2023-02-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://weekendproject.space/categories/blog/</loc>
-    <lastmod>2022-10-08T00:00:00+00:00</lastmod>
+    <lastmod>2023-02-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://weekendproject.space/categories/</loc>
-    <lastmod>2022-10-08T00:00:00+00:00</lastmod>
+    <lastmod>2023-02-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://weekendproject.space/posts/</loc>
+    <lastmod>2023-02-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://weekendproject.space/tags/</loc>
+    <lastmod>2023-02-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://weekendproject.space/posts/webfollow-ruanyifeng-02-03/</loc>
+    <lastmod>2023-02-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://weekendproject.space/tags/%E5%8D%9A%E5%AE%A2/</loc>
+    <lastmod>2023-02-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://weekendproject.space/tags/%E5%91%A8%E6%9C%AB%E9%A1%B9%E7%9B%AE%E6%95%B0%E6%8D%AE/</loc>
+    <lastmod>2023-02-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://weekendproject.space/posts/json-tool/</loc>
     <lastmod>2022-10-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://weekendproject.space/posts/</loc>
-    <lastmod>2022-10-08T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://weekendproject.space/categories/project/</loc>
-    <lastmod>2022-10-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://weekendproject.space/tags/</loc>
     <lastmod>2022-10-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://weekendproject.space/posts/webfollow-data-22-10-20/</loc>
     <lastmod>2022-10-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://weekendproject.space/tags/%E5%91%A8%E6%9C%AB%E9%A1%B9%E7%9B%AE/</loc>
-    <lastmod>2022-10-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://weekendproject.space/tags/%E5%91%A8%E6%9C%AB%E9%A1%B9%E7%9B%AE%E6%95%B0%E6%8D%AE/</loc>
     <lastmod>2022-10-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://weekendproject.space/tags/%E7%BD%91%E7%AB%99/</loc>
@@ -41,7 +47,10 @@
     <loc>https://weekendproject.space/posts/webfollow/</loc>
     <lastmod>2022-08-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://weekendproject.space/idea-list/</loc>
+    <loc>https://weekendproject.space/tags/idea/</loc>
+    <lastmod>2022-08-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://weekendproject.space/posts/idea-list/</loc>
     <lastmod>2022-08-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://weekendproject.space/posts/weekend-project-web-site/</loc>
