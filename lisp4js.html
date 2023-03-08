@@ -21,37 +21,58 @@
             background: #eee;
             border-radius: 0.5em;
         }
-        .output li{
+
+        .output li {
             height: 2em;
             line-height: 2em;
         }
 
-        .mt-3{
+        .mt-3 {
             margin-top: 1.5em;
         }
+
+        .flex {
+            display: flex;
+            justify-content: space-between;
+        }
     </style>
-    
+
     <script src="https://cdnjs.cloudflare.com/ajax/libs/vue/3.2.47/vue.global.min.js"></script>
     <script src="./lisp4js.js"></script>
+    <script>
+        if (!window.location.host.includes("local")) {
+            var _hmt = _hmt || [];
+            (function () {
+                var hm = document.createElement("script");
+                hm.src = "https://hm.baidu.com/hm.js?304cbdf1c8fcc8e1e833875ecedf7243";
+                var s = document.getElementsByTagName("script")[0];
+                s.parentNode.insertBefore(hm, s);
+            })();
+        }
+    </script>
 </head>
 
 <body>
 
     <div id="app" class="warp">
-        <h1>lisp4js</h1>
+        <div class="flex">
+            <h1>Lisp4js </h1>
+            <a href="https://github.com/weekend-project-space/lisp4js">source code</a>
+        </div>
+
         <textarea class="form-control" v-model="value" rows="9"></textarea>
-        <button class="btn btn-primary mt-3" @click="submit">eval</button>
+        <button class="btn btn-primary mt-3" @click="submit">run</button>
         <ul class="output mt-3">
-            <li v-for="(item,i) in output"  :key="i" v-text="item"></li>
+            <li v-for="(item,i) in output" :key="i" v-text="item"></li>
         </ul>
     </div>
     <script>
         const { createApp, ref, watch } = Vue
         let app = createApp({
             setup() {
-                
-                const value = ref(JSON.parse(localStorage.getItem('value'))||
-                ` ( 
+
+                const value = ref(JSON.parse(localStorage.getItem('value')) ||
+                    ` ( 
                         (write-line 'hello lisp')
                         (define g  (lambda (x) (+ x x)) )
                         (define a  (list 1 2 3 4 5 6))
@@ -67,8 +88,8 @@
                     console.log(eval(value.value))
                     // output.value.push(eval(value.value));
                 };
-                watch(value, v=>{
-                    localStorage.setItem('value',JSON.stringify(v))
+                watch(value, v => {
+                    localStorage.setItem('value', JSON.stringify(v))
                 })
 
                 return {
@@ -76,8 +97,8 @@
                 }
             }
         }).mount('#app')
-        window['write-line'] = function(args){
-            app.output.push( args.join(' '))
+        window['write-line'] = function (args) {
+            app.output.push(args.join(' '))
         }
     </script>
 </body>
