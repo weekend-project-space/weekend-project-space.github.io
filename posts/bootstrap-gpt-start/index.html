@@ -47,8 +47,9 @@
   <meta name="theme-color" />
   
   <meta name="description" content="第一步： 访问 https://github.com/weekend-project-space/bootstrap-gp 点击 code download zip 按钮 或通过命令行下载
-&gt; git clone https://github.com/weekend-project-space/bootstrap-gpt.git 第二步： 进入项目文件夹 或命令行进入 , 安装依赖（ 请保证本地有 python3 的运行环境）
-&gt; cd ./bootstrap-gpt &gt; pip install openai &amp;&amp; pip install beautifulsoup4 &amp;&amp; pip install jsonpath &amp;&amp; pip install jinja2 第三步： 运行项目
+&gt; git clone https://github.com/weekend-project-space/bootstrap-gpt.git 第二步： 进入项目文件夹 或命令行进入 , 安装依赖（ 请保证本地有 python3 的运行环境）, 配置自己的 api-key
+&gt; cd ./bootstrap-gpt &gt; pip install openai &amp;&amp; pip install beautifulsoup4 &amp;&amp; pip install jsonpath &amp;&amp; pip install jinja2 在.env 文件修改 api-key
+api_key=sk-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx 第三步： 运行项目
 &gt; python3 main.py 此时命令行会输出
 Welcome to Bootstrap GPT sample &gt; use summarize &gt; 然后可以输入 help 了解有那些命令，常用命令有三个
  ls: 查看有那些功能 use xxx: 使用 xxx 功能 serve: 开启 http server 功能可以网页访问   进阶 正常情况下到这里就可以了，如果想要更多功能可以在 bootstrap 文件夹下创建 json 文件，一个功能文件如下" />
@@ -126,7 +127,7 @@ Welcome to Bootstrap GPT sample &gt; use summarize &gt; 然后可以输入 help 
   <meta itemprop="name" content="Bootstrap GPT 如何使用">
 <meta itemprop="description" content="ChatGPT 如何使用及一些例子"><meta itemprop="datePublished" content="2023-04-21T00:00:00+00:00" />
 <meta itemprop="dateModified" content="2023-04-21T00:00:00+00:00" />
-<meta itemprop="wordCount" content="194">
+<meta itemprop="wordCount" content="200">
 <meta itemprop="keywords" content="博客,GPT," />
   
   <meta name="twitter:card" content="summary"/>
@@ -287,11 +288,13 @@ Welcome to Bootstrap GPT sample &gt; use summarize &gt; 然后可以输入 help 
 <p>访问 <a href="https://github.com/weekend-project-space/bootstrap-gp">https://github.com/weekend-project-space/bootstrap-gp</a> 点击 code download zip 按钮 或通过命令行下载</p>
 <pre tabindex="0"><code>&gt; git clone https://github.com/weekend-project-space/bootstrap-gpt.git
 </code></pre><h2 id="第二步">第二步：</h2>
-<p>进入项目文件夹 或命令行进入 , 安装依赖（ 请保证本地有 python3 的运行环境）</p>
+<p>进入项目文件夹 或命令行进入 , 安装依赖（ 请保证本地有 python3 的运行环境）, 配置自己的 api-key</p>
 <pre tabindex="0"><code>&gt; cd ./bootstrap-gpt
 
 
 &gt; pip install openai &amp;&amp; pip install beautifulsoup4 &amp;&amp; pip install jsonpath &amp;&amp; pip install jinja2
+</code></pre><p>在.env 文件修改 api-key</p>
+<pre tabindex="0"><code>api_key=sk-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 </code></pre><h2 id="第三步">第三步：</h2>
 <p>运行项目</p>
 <pre tabindex="0"><code>&gt; python3 main.py
