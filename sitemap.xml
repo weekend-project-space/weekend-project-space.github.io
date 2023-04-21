@@ -3,7 +3,28 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://weekendproject.space/</loc>
-    <lastmod>2023-03-30T00:00:00+00:00</lastmod>
+    <lastmod>2023-04-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://weekendproject.space/categories/blog/</loc>
+    <lastmod>2023-04-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://weekendproject.space/posts/bootstrap-gpt/</loc>
+    <lastmod>2023-04-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://weekendproject.space/categories/</loc>
+    <lastmod>2023-04-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://weekendproject.space/tags/gpt/</loc>
+    <lastmod>2023-04-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://weekendproject.space/posts/</loc>
+    <lastmod>2023-04-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://weekendproject.space/tags/</loc>
+    <lastmod>2023-04-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://weekendproject.space/tags/%E5%8D%9A%E5%AE%A2/</loc>
+    <lastmod>2023-04-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://weekendproject.space/tags/ai/</loc>
     <lastmod>2023-03-30T00:00:00+00:00</lastmod>
@@ -11,34 +32,13 @@
     <loc>https://weekendproject.space/posts/aihub/</loc>
     <lastmod>2023-03-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://weekendproject.space/categories/</loc>
-    <lastmod>2023-03-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://weekendproject.space/posts/</loc>
-    <lastmod>2023-03-30T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://weekendproject.space/categories/project/</loc>
-    <lastmod>2023-03-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://weekendproject.space/tags/</loc>
     <lastmod>2023-03-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://weekendproject.space/tags/%E5%91%A8%E6%9C%AB%E9%A1%B9%E7%9B%AE/</loc>
     <lastmod>2023-03-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://weekendproject.space/categories/blog/</loc>
-    <lastmod>2023-03-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://weekendproject.space/posts/bootstrap-gpt/</loc>
-    <lastmod>2023-03-22T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://weekendproject.space/posts/chat-gpt-free/</loc>
-    <lastmod>2023-03-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://weekendproject.space/tags/gpt/</loc>
-    <lastmod>2023-03-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://weekendproject.space/tags/%E5%8D%9A%E5%AE%A2/</loc>
     <lastmod>2023-03-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://weekendproject.space/posts/chat-gpt-tools/</loc>

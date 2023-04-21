@@ -7,11 +7,11 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright © 2022</copyright>
-    <lastBuildDate>Wed, 22 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://weekendproject.space/categories/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 21 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://weekendproject.space/categories/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bootstrap GPT 是什么</title>
       <link>https://weekendproject.space/posts/bootstrap-gpt/</link>
-      <pubDate>Wed, 22 Mar 2023 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 21 Apr 2023 00:00:00 +0000</pubDate>
       
       <guid>https://weekendproject.space/posts/bootstrap-gpt/</guid>
       <description>故事的开始 前些日子受 auto gpt 的启发，这次的输出当作下次的输入，想着能否将 prompts 当作一种编程的手段，而且让其支持联网 ，比如 写一个 ppt 或 文档 或总结网页内容 等等 让它去引导你，就像一个问卷调查 然后给你生成你需要的结果。
