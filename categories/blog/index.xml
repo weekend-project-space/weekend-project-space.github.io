@@ -9,6 +9,22 @@
     <copyright>Copyright © 2022</copyright>
     <lastBuildDate>Wed, 22 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://weekendproject.space/categories/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Bootstrap GPT 是什么</title>
+      <link>https://weekendproject.space/posts/bootstrap-gpt/</link>
+      <pubDate>Wed, 22 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://weekendproject.space/posts/bootstrap-gpt/</guid>
+      <description>故事的开始 前些日子受 auto gpt 的启发，这次的输出当作下次的输入，想着能否将 prompts 当作一种编程的手段，而且让其支持联网 ，比如 写一个 ppt 或 文档 或总结网页内容 等等 让它去引导你，就像一个问卷调查 然后给你生成你需要的结果。
+然后当天下午就写了一个出来是 cmd 的交互方式，验证成功
+后面在社区有人回复说网络的方式更好，然后就又增加了 http 的方式，这里有一个展示视频可以展示现在它能做的事情
+这些是如何运作的？
+我们先通过 ls 命令会罗列出现在有那些功能:
+ls
+summarize : 总结网页 v2-hot : 查看v2最近热门帖子讲了什么 while : 循环次数测试 hot : 查看webfollow最近热门帖子讲了什么 friend : chat 聊天 引导助手 writecode : code boot spider : wiki 引导助手 然后 使用 use summarize 这个功能作为演示， bootstarp-gpt 会加载 bootstarp 下的文件，这里有一个总结网页讲了什么的 summarize.json 文件
+{ &amp;#34;author&amp;#34;: &amp;#34;ruidong&amp;#34;, &amp;#34;date&amp;#34;: &amp;#34;2023-04-19&amp;#34;, &amp;#34;version&amp;#34;: &amp;#34;0.1&amp;#34;, &amp;#34;description&amp;#34;: &amp;#34;总结网页&amp;#34;, &amp;#34;boot&amp;#34;: [ { &amp;#34;w&amp;#34;: &amp;#34;请输入网址&amp;#34;, &amp;#34;r&amp;#34;: &amp;#34;r0&amp;#34;, &amp;#34;p&amp;#34;: &amp;#34;spider:{{r0}}:select=.</description>
+    </item>
+    
+    <item>
       <title>ChatGPT免费在线体验网址</title>
       <link>https://weekendproject.space/posts/chat-gpt-free/</link>
       <pubDate>Wed, 22 Mar 2023 00:00:00 +0000</pubDate>
