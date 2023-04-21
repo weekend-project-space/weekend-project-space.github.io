@@ -41,19 +41,17 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
 
   
-  <title>Bootstrap GPT 是什么 - Weekend Project</title>
+  <title>Bootstrap GPT 如何使用 - Weekend Project</title>
 
   
   <meta name="theme-color" />
   
-  <meta name="description" content="故事的开始 前些日子受 auto gpt 的启发，这次的输出当作下次的输入，想着能否将 prompts 当作一种编程的手段，而且让其支持联网 ，比如 写一个 ppt 或 文档 或总结网页内容 等等 让它去引导你，就像一个问卷调查 然后给你生成你需要的结果。
-然后当天下午就写了一个出来是 cmd 的交互方式，验证成功
-后面在社区有人回复说网络的方式更好，然后就又增加了 http 的方式，这里有一个展示视频可以展示现在它能做的事情
-这些是如何运作的？
-我们先通过 ls 命令会罗列出现在有那些功能:
-ls
-summarize : 总结网页 v2-hot : 查看v2最近热门帖子讲了什么 while : 循环次数测试 hot : 查看webfollow最近热门帖子讲了什么 friend : chat 聊天 引导助手 writecode : code boot spider : wiki 引导助手 然后 使用 use summarize 这个功能作为演示， bootstarp-gpt 会加载 bootstarp 下的文件，这里有一个总结网页讲了什么的 summarize.json 文件
-{ &#34;author&#34;: &#34;ruidong&#34;, &#34;date&#34;: &#34;2023-04-19&#34;, &#34;version&#34;: &#34;0.1&#34;, &#34;description&#34;: &#34;总结网页&#34;, &#34;boot&#34;: [ { &#34;w&#34;: &#34;请输入网址&#34;, &#34;r&#34;: &#34;r0&#34;, &#34;p&#34;: &#34;spider:{{r0}}:select=." />
+  <meta name="description" content="第一步： 访问 https://github.com/weekend-project-space/bootstrap-gp 点击 code download zip 按钮 或通过命令行下载
+&gt; git clone https://github.com/weekend-project-space/bootstrap-gpt.git 第二步： 进入项目文件夹 或命令行进入 , 安装依赖（ 请保证本地有 python3 的运行环境）
+&gt; cd ./bootstrap-gpt &gt; pip install openai &amp;&amp; pip install beautifulsoup4 &amp;&amp; pip install jsonpath &amp;&amp; pip install jinja2 第三步： 运行项目
+&gt; python3 main.py 此时命令行会输出
+Welcome to Bootstrap GPT sample &gt; use summarize &gt; 然后可以输入 help 了解有那些命令，常用命令有三个
+ ls: 查看有那些功能 use xxx: 使用 xxx 功能 serve: 开启 http server 功能可以网页访问   进阶 正常情况下到这里就可以了，如果想要更多功能可以在 bootstrap 文件夹下创建 json 文件，一个功能文件如下" />
   <meta name="author" content="瑞东" />
   
 
@@ -116,24 +114,24 @@ summarize : 总结网页 v2-hot : 查看v2最近热门帖子讲了什么 while :
   
   
   
-  <meta property="og:title" content="Bootstrap GPT 是什么" />
-<meta property="og:description" content="ChatGPT 联网后可以做什么" />
+  <meta property="og:title" content="Bootstrap GPT 如何使用" />
+<meta property="og:description" content="ChatGPT 如何使用及一些例子" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://weekendproject.space/posts/bootstrap-gpt/" /><meta property="article:section" content="posts" />
+<meta property="og:url" content="https://weekendproject.space/posts/bootstrap-gpt-start/" /><meta property="article:section" content="posts" />
 <meta property="article:published_time" content="2023-04-21T00:00:00+00:00" />
 <meta property="article:modified_time" content="2023-04-21T00:00:00+00:00" />
 
 
   
-  <meta itemprop="name" content="Bootstrap GPT 是什么">
-<meta itemprop="description" content="ChatGPT 联网后可以做什么"><meta itemprop="datePublished" content="2023-04-21T00:00:00+00:00" />
+  <meta itemprop="name" content="Bootstrap GPT 如何使用">
+<meta itemprop="description" content="ChatGPT 如何使用及一些例子"><meta itemprop="datePublished" content="2023-04-21T00:00:00+00:00" />
 <meta itemprop="dateModified" content="2023-04-21T00:00:00+00:00" />
-<meta itemprop="wordCount" content="150">
+<meta itemprop="wordCount" content="194">
 <meta itemprop="keywords" content="博客,GPT," />
   
   <meta name="twitter:card" content="summary"/>
-<meta name="twitter:title" content="Bootstrap GPT 是什么"/>
-<meta name="twitter:description" content="ChatGPT 联网后可以做什么"/>
+<meta name="twitter:title" content="Bootstrap GPT 如何使用"/>
+<meta name="twitter:description" content="ChatGPT 如何使用及一些例子"/>
 
   
   
@@ -270,7 +268,7 @@ summarize : 总结网页 v2-hot : 查看v2最近热门帖子讲了什么 while :
 
 <article>
   <header class="mb-20">
-    <h1 class="!my-0 pb-2.5">Bootstrap GPT 是什么</h1>
+    <h1 class="!my-0 pb-2.5">Bootstrap GPT 如何使用</h1>
 
     
     <div class="text-sm opacity-60">
@@ -285,23 +283,31 @@ summarize : 总结网页 v2-hot : 查看v2最近热门帖子讲了什么 while :
     
   </header>
 
-  <section><h2 id="故事的开始">故事的开始</h2>
-<p>前些日子受 auto gpt 的启发，这次的输出当作下次的输入，想着能否将 prompts 当作一种编程的手段，而且让其支持联网 ，比如 写一个 ppt 或 文档 或总结网页内容 等等 让它去引导你，就像一个问卷调查 然后给你生成你需要的结果。</p>
-<p>然后当天下午就写了一个出来是 cmd 的交互方式，验证成功</p>
-<p><img src="https://raw.githubusercontent.com/weekend-project-space/bootstrap-gpt/main/doc/demo.gif" alt="bootstrap-gpt"></p>
-<p>后面在社区有人回复说网络的方式更好，然后就又增加了 http 的方式，这里有一个展示视频可以展示现在它能做的事情</p>
-<p><img src="https://raw.githubusercontent.com/weekend-project-space/bootstrap-gpt/main/doc/gpt-online-demo.gif" alt="gpt-online"></p>
-<p><strong>这些是如何运作的？</strong></p>
-<p>我们先通过 ls 命令会罗列出现在有那些功能:</p>
-<p>ls</p>
-<pre tabindex="0"><code>summarize : 总结网页
-v2-hot : 查看v2最近热门帖子讲了什么
-while : 循环次数测试
-hot : 查看webfollow最近热门帖子讲了什么
-friend : chat 聊天 引导助手
-writecode : code boot
-spider : wiki 引导助手
-</code></pre><p>然后 使用 use summarize 这个功能作为演示， bootstarp-gpt 会加载 bootstarp 下的文件，这里有一个总结网页讲了什么的 summarize.json 文件</p>
+  <section><h2 id="第一步">第一步：</h2>
+<p>访问 <a href="https://github.com/weekend-project-space/bootstrap-gp">https://github.com/weekend-project-space/bootstrap-gp</a> 点击 code download zip 按钮 或通过命令行下载</p>
+<pre tabindex="0"><code>&gt; git clone https://github.com/weekend-project-space/bootstrap-gpt.git
+</code></pre><h2 id="第二步">第二步：</h2>
+<p>进入项目文件夹 或命令行进入 , 安装依赖（ 请保证本地有 python3 的运行环境）</p>
+<pre tabindex="0"><code>&gt; cd ./bootstrap-gpt
+
+
+&gt; pip install openai &amp;&amp; pip install beautifulsoup4 &amp;&amp; pip install jsonpath &amp;&amp; pip install jinja2
+</code></pre><h2 id="第三步">第三步：</h2>
+<p>运行项目</p>
+<pre tabindex="0"><code>&gt; python3 main.py
+</code></pre><p>此时命令行会输出</p>
+<pre tabindex="0"><code>Welcome to Bootstrap GPT
+sample &gt; use summarize
+&gt;
+</code></pre><p>然后可以输入 help 了解有那些命令，常用命令有三个</p>
+<ul>
+<li>ls: 查看有那些功能</li>
+<li>use xxx: 使用 xxx 功能</li>
+<li>serve: 开启 http server 功能可以网页访问</li>
+</ul>
+<hr>
+<h2 id="进阶">进阶</h2>
+<p>正常情况下到这里就可以了，如果想要更多功能可以在 bootstrap 文件夹下创建 json 文件，一个功能文件如下</p>
 <div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-json" data-lang="json">{
   <span style="color:#f92672">&#34;author&#34;</span>: <span style="color:#e6db74">&#34;ruidong&#34;</span>,
   <span style="color:#f92672">&#34;date&#34;</span>: <span style="color:#e6db74">&#34;2023-04-19&#34;</span>,
@@ -326,33 +332,21 @@ spider : wiki 引导助手
     }
   ]
 }
-</code></pre></div><p>当使用 总结网页这个命令时 Bootstarp GPT 会加载这个文件运作，</p>
+</code></pre></div><p>这是一个总结网页的功能
+我们重点关注 boot 这个字段， boot 是一个数组，数组里面有多个对象，对象有如下几个字段</p>
 <ul>
-<li>控制台输出 请输入网址 ，</li>
-<li>然后等待输入，</li>
-<li>接着将输入的网址调用爬虫抓取，</li>
-<li>抓取到的结果通过 chat 进行总结，</li>
-<li>把总结的内容打印到控制台上，</li>
-<li>最后等待输入是否继续总结其他网页</li>
-<li>继续则跳转到第 1 条命令也就是下标是 0 的位置继续执行，否则退出</li>
+<li>w: write 支持模板变量 向用户界面输出内容</li>
+<li>r: read 读取用户的输入信息存放在后面的 r0 字段中</li>
+<li>b: branch 分支 支持 Object 类型字段 eq 跳转 和 Array 循序执行 或 无继续往下执行， -1 为结束执行 如第三个对象中的 y:0 ,n:-1 ,当输入为 n 时结束执行</li>
+<li>p: prompt 支持模板变量 微指令 用于引导 chatgpt[chat:] 给其文案 或 爬虫[sprider:]搜索 纯文本[text:]输出， 可以扩展更多微指令提示引导 如 +: -: len: ，必须微指令开头后面写模板内容</li>
 </ul>
-<p>这些功能的开发都很简单，目前还只是玩具一样的小项目。</p>
-<p>如果你对此感兴趣可以通过这里获取源码<a href="https://github.com/weekend-project-space/bootstrap-gpt">bootstrap-gpt</a></p>
-<h2 id="结尾">结尾</h2>
-<p>最后用总结功能让其总结了一下这篇文件讲了什么:</p>
-<pre tabindex="0"><code>&gt; use summarize
-请输入网址
-&gt; https://weekendproject.space/posts/bootstrap-gpt/
-
-总结: 本页面介绍了 Bootstrap GPT，它是一个可以将 prompts 作为编程手段的工具，
-并支持联网功能。通过展示视频和代码示例，介绍了如何使用 Bootstrap GPT 的各种功能，
-主要包括总结网页、查看热门帖子、循环测试、聊天引导助手、代码编写、爬虫引导助手等，
-以及它们的实现原理。最后提供了获取源码的链接。
-
-还要总结其他网页吗? y/n
-&gt;
-
-</code></pre></section>
+<p>r0 m1 r2 为变量名称 为类型+index 索引 有 r：reader w:writer p:prompts m:msg 之分</p>
+<p>r0 r2 是我们自己定义的读入信息存放的字段， m1 是下标为 1 的对象 p 处理后的返回信息</p>
+<h2 id="扩展">扩展</h2>
+<ul>
+<li><a href="/posts/bootstrap-gpt">bootstrap-gpt</a>: 了解命令是如何运行的</li>
+</ul>
+</section>
 
   
   
@@ -378,15 +372,11 @@ spider : wiki 引导助手
   
   <nav class="mt-24 flex rounded-lg bg-black/[3%] text-lg dark:bg-white/[8%]">
     
-    <a class="flex w-1/2 items-center p-6 pr-3 no-underline" href="https://weekendproject.space/posts/bootstrap-gpt-start/"
-      ><span class="mr-1.5">←</span><span>Bootstrap GPT 如何使用</span></a
-    >
-    
     
     <a
       class="ml-auto flex w-1/2 items-center justify-end p-6 pl-3 no-underline"
-      href="https://weekendproject.space/posts/aihub/"
-      ><span>AI hub 上线了</span><span class="ml-1.5">→</span></a
+      href="https://weekendproject.space/posts/bootstrap-gpt/"
+      ><span>Bootstrap GPT 是什么</span><span class="ml-1.5">→</span></a
     >
     
   </nav>

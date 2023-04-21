@@ -9,6 +9,20 @@
     <copyright>Copyright © 2022</copyright>
     <lastBuildDate>Fri, 21 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://weekendproject.space/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Bootstrap GPT 如何使用</title>
+      <link>https://weekendproject.space/posts/bootstrap-gpt-start/</link>
+      <pubDate>Fri, 21 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://weekendproject.space/posts/bootstrap-gpt-start/</guid>
+      <description>第一步： 访问 https://github.com/weekend-project-space/bootstrap-gp 点击 code download zip 按钮 或通过命令行下载
+&amp;gt; git clone https://github.com/weekend-project-space/bootstrap-gpt.git 第二步： 进入项目文件夹 或命令行进入 , 安装依赖（ 请保证本地有 python3 的运行环境）
+&amp;gt; cd ./bootstrap-gpt &amp;gt; pip install openai &amp;amp;&amp;amp; pip install beautifulsoup4 &amp;amp;&amp;amp; pip install jsonpath &amp;amp;&amp;amp; pip install jinja2 第三步： 运行项目
+&amp;gt; python3 main.py 此时命令行会输出
+Welcome to Bootstrap GPT sample &amp;gt; use summarize &amp;gt; 然后可以输入 help 了解有那些命令，常用命令有三个
+ ls: 查看有那些功能 use xxx: 使用 xxx 功能 serve: 开启 http server 功能可以网页访问   进阶 正常情况下到这里就可以了，如果想要更多功能可以在 bootstrap 文件夹下创建 json 文件，一个功能文件如下</description>
+    </item>
+    
+    <item>
       <title>Bootstrap GPT 是什么</title>
       <link>https://weekendproject.space/posts/bootstrap-gpt/</link>
       <pubDate>Fri, 21 Apr 2023 00:00:00 +0000</pubDate>
