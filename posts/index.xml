@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Weekend Project</title>
-    <link>https://weekendproject.space/posts/</link>
+    <link>https://weekendproject.online/posts/</link>
     <description>Recent content in Posts on Weekend Project</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright © 2022</copyright>
-    <lastBuildDate>Fri, 21 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://weekendproject.space/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 21 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://weekendproject.online/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bootstrap GPT 如何使用</title>
-      <link>https://weekendproject.space/posts/bootstrap-gpt-start/</link>
+      <link>https://weekendproject.online/posts/bootstrap-gpt-start/</link>
       <pubDate>Fri, 21 Apr 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://weekendproject.space/posts/bootstrap-gpt-start/</guid>
+      <guid>https://weekendproject.online/posts/bootstrap-gpt-start/</guid>
       <description>第一步： 访问 https://github.com/weekend-project-space/bootstrap-gp 点击 code download zip 按钮 或通过命令行下载
 &amp;gt; git clone https://github.com/weekend-project-space/bootstrap-gpt.git 第二步： 进入项目文件夹 或命令行进入 , 安装依赖（ 请保证本地有 python3 的运行环境）, 配置自己的 api-key
 &amp;gt; cd ./bootstrap-gpt &amp;gt; pip install openai &amp;amp;&amp;amp; pip install beautifulsoup4 &amp;amp;&amp;amp; pip install jsonpath &amp;amp;&amp;amp; pip install jinja2 在.env 文件修改 api-key
@@ -25,10 +25,10 @@ Welcome to Bootstrap GPT sample &amp;gt; use summarize &amp;gt; 然后可以输�
     
     <item>
       <title>Bootstrap GPT 是什么</title>
-      <link>https://weekendproject.space/posts/bootstrap-gpt/</link>
+      <link>https://weekendproject.online/posts/bootstrap-gpt/</link>
       <pubDate>Fri, 21 Apr 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://weekendproject.space/posts/bootstrap-gpt/</guid>
+      <guid>https://weekendproject.online/posts/bootstrap-gpt/</guid>
       <description>故事的开始 前些日子受 auto gpt 的启发，这次的输出当作下次的输入，想着能否将 prompts 当作一种编程的手段，而且让其支持联网 ，比如 写一个 ppt 或 文档 或总结网页内容 等等 让它去引导你，就像一个问卷调查 然后给你生成你需要的结果。
 然后当天下午就写了一个出来是 cmd 的交互方式，验证成功
 后面在社区有人回复说网络的方式更好，然后就又增加了 http 的方式，这里有一个展示视频可以展示现在它能做的事情
@@ -41,34 +41,21 @@ summarize : 总结网页 v2-hot : 查看v2最近热门帖子讲了什么 while :
     
     <item>
       <title>AI hub 上线了</title>
-      <link>https://weekendproject.space/posts/aihub/</link>
+      <link>https://weekendproject.online/posts/aihub/</link>
       <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://weekendproject.space/posts/aihub/</guid>
+      <guid>https://weekendproject.online/posts/aihub/</guid>
       <description>开发用时:16 小时+ 费用:30 元+  这个项目的初衷是看到网络上有各种各样的 ai 相关的应用，但是查找起来并不方便，然后便从网络上采集了一些公开数据作为初始化的数据，页面采用了 hugo 搭建，在官方提供的主题列表里找了个相对可用的主题然后进行了改造与调整，因为基于 hugo 就并没有搭建后台与购买后台服务器，而是选择托管在了静态文件服务器上，唯一的开销是当时买域名付的一笔费用，这个项目的所有源码都已开源,如果有感兴趣的后续可以提交收录。
 哦，对了这是这个网站的地址
 https://aihub.bitmagic.space</description>
     </item>
     
     <item>
-      <title>ChatGPT免费在线体验网址</title>
-      <link>https://weekendproject.space/posts/chat-gpt-free/</link>
-      <pubDate>Wed, 22 Mar 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://weekendproject.space/posts/chat-gpt-free/</guid>
-      <description>今天在网上逛社区的时候发现了一个ChatGPT 在线体验网站收集列表的项目
-里面收集了很多可以无需代理、无需翻墙 、无需 KEY 的三方站点，这对于国内的朋友或许有很大的帮助。
-对于想体验更多 ai 相关应用的朋友可以试试这个网站aihub.bitmagic收录了近千个 ai 相关的应用与模型。
-摘抄过来前 100 个
- [⭐⭐] https://chat.binjie.site:7777 [⭐⭐] https://chat.yqcloud.top [⭐⭐] https://www.aitoolgpt.com [⭐⭐] https://www.chatsverse.xyz [⭐] https://chat.ninvfeng.xyz [⭐] http://chat.apigpt.cn [⭐] http://chatgpt.mhacd.com [⭐] http://gpt.mxnf.store [⭐] http://itecheasy.com.cn [⭐] https://1.hktwilight.eu.org [⭐] https://2618.eu.org [⭐] https://6758tkma.chattobot.xyz [⭐] https://676888.xyz [⭐] https://94gpt.com [⭐] https://ai-toolbox.codefuture.top [⭐] https://ai.6ix.com [⭐] https://ai.aiyuanyuzhou.com [⭐] https://ai.anlu.fun [⭐] https://ai.bigtear.com [⭐] https://ai.chilfish.top [⭐] https://ai.czhuangjia.top [⭐] https://ai.gjwa.ml [⭐] https://ai.hixqz.com [⭐] https://ai.i-misaka.com [⭐] https://ai.jiangyuesong.me [⭐] https://ai.liuks.cn [⭐] https://ai.lpsee.com [⭐] https://ai.</description>
-    </item>
-    
-    <item>
       <title>ChatGPT小工具(用Chat GPT 编程?)</title>
-      <link>https://weekendproject.space/posts/chat-gpt-tools/</link>
+      <link>https://weekendproject.online/posts/chat-gpt-tools/</link>
       <pubDate>Wed, 08 Mar 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://weekendproject.space/posts/chat-gpt-tools/</guid>
+      <guid>https://weekendproject.online/posts/chat-gpt-tools/</guid>
       <description>最近写了2个Chat GPT的小玩具，有网页版，也有浏览器插件，源码和效果在首页有链接，总体来说开发这种小工具还是很简单的，官方提供了api使用文档，只需要copy过来做一个简单的用户界面即可，现在网上有很多套壳版，最开始使用体验还不错,不过现在大多数情况下都在用自己开发的浏览器插件 在浏览器任意位置 ctrl+shirt+x就可以欢迎对话。
 用Chat GPT 编程*
 对了，现在写代码开始让Chat GPT 给输出一个基本的大纲，然后在进行修改和调整，lisp4js这个项目的parse模块就用到了GPT编写代码大纲，然后手动编写了对字符串类型和symbol类型的支持，这大大提高了编码效率；evaluate模块最开始是用Chat GPT生成的，但对于自定义函数的支持并不友好，及没有作用域，于是全部删除开始手动编码和调试，然后今天完成了初版，以前是面向谷歌编程以后要学习面向Chat GPT编程了及学习更多的prompt，编码的入门门槛也在此降低了许多，用人类语言告诉Chat GPT 然后他告诉你对应的代码，然后再做微调即可，我们需要做的就是学会和其更高效的对话。
@@ -83,20 +70,20 @@ user：
     
     <item>
       <title>上阮老师的科技爱好者周刊了？</title>
-      <link>https://weekendproject.space/posts/webfollow-ruanyifeng-02-03/</link>
+      <link>https://weekendproject.online/posts/webfollow-ruanyifeng-02-03/</link>
       <pubDate>Thu, 09 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://weekendproject.space/posts/webfollow-ruanyifeng-02-03/</guid>
+      <guid>https://weekendproject.online/posts/webfollow-ruanyifeng-02-03/</guid>
       <description>2月3号，早上像往常一样上网站看订阅的信息，但怎么都加载不出来，看了一下后台数据库连接老是超时，起初以为是数据库数据多了的缘故，于是在线下测试了一下，很流畅，然后就向往常一样看了下访问统计，一看惊呆，2000+pv 100+访客，网站被攻击了吗？看了下来源，原来是来自阮老师的网站，一切就都联系起来了，然后紧急对网站做了改造，加了几处缓存，网站暂时可用了， 关于上阮老师周刊这件事,起因是三周前在 github 给阮老师周刊投了搞，于是 科技爱好者周刊 240 期 教育年限可以缩短吗？ 便有了 webfollow 的名字，感谢阮老师！
 最近几天累积pv近3w,相当于之前两个月的访问量，不得不感叹阮老师流量挺高的， 最近新增注册用户300+ 访客注册转化率12%-15%， 对这个数据还是比较满意的；关于更好的长期提供服务这块收费方式一直不明朗，近期不打算收费，但也有考虑收费的形式: &amp;ldquo;通过过滤信息的方式给用户推送高价值的订阅RSS信息 或则私有化部署的形式获取一些收益&amp;rdquo;，这一切还都停留在想法阶段，目前能做的就是把功能做的简单 高效 好用 易用 美观 和三方做出差异来，RSS阅读器这个类别下有很多同质化产品 做的比较大的有 feedly、inoreader 、 Reeder等产品，订阅源相同的情况下 他们目前在组织内容形式上没有什么差异，更多是内容的布局有所不同，打算后期在组织内容的形式上做出些好玩好用的东西来，如果你对这块感兴趣可以和我联系。</description>
     </item>
     
     <item>
       <title>JSON在线格式化</title>
-      <link>https://weekendproject.space/posts/json-tool/</link>
+      <link>https://weekendproject.online/posts/json-tool/</link>
       <pubDate>Sat, 08 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://weekendproject.space/posts/json-tool/</guid>
+      <guid>https://weekendproject.online/posts/json-tool/</guid>
       <description>开发消耗
  开发用时:3小时+ 页面部署在github page上 技术 js + css + html  功能特性
 利用闲余的时间开发了一个json在线格式化工具：
@@ -108,10 +95,10 @@ user：
     
     <item>
       <title>WebFollow 22年10月份最新一组数据</title>
-      <link>https://weekendproject.space/posts/webfollow-data-22-10-20/</link>
+      <link>https://weekendproject.online/posts/webfollow-data-22-10-20/</link>
       <pubDate>Sat, 08 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://weekendproject.space/posts/webfollow-data-22-10-20/</guid>
+      <guid>https://weekendproject.online/posts/webfollow-data-22-10-20/</guid>
       <description>访问数据
  22-10-08 上线两个月   累计 PV 13,155 UV 2,502 Feed 304
   22-10-18 上线两个月10天   累计PV 19,759 UV 3,030 Feed 495
@@ -122,10 +109,10 @@ user：
     
     <item>
       <title>rss read 上线了 (webfollow1.5)</title>
-      <link>https://weekendproject.space/posts/webfollow-1.5/</link>
+      <link>https://weekendproject.online/posts/webfollow-1.5/</link>
       <pubDate>Mon, 15 Aug 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://weekendproject.space/posts/webfollow-1.5/</guid>
+      <guid>https://weekendproject.online/posts/webfollow-1.5/</guid>
       <description> 开发用时:20小时+ 费用:0元+  webfollow.cc 上线一周后积累了20个用户，由于上手门槛还是过于高，于是就有了 webfollow 的阅读版 (更易上手，所见即所得 read模式), 之前rss2letter转移到了 webfollow.cc/watch 下
 网站介绍 页面分成了三块
  首页 ： 用户订阅信息的聚合 探索 ： 不只是用户订阅的内容，还有更多相关的频道和信息 订阅 ： 管理订阅的rss可以方便快速的查看该rss频道下的内容  后台继续采用了webfollow-rss2letter 的后台, 前台采用vue+vite+pwa技术栈开发，用时2天多一点。
@@ -136,10 +123,10 @@ user：
     
     <item>
       <title>webfollow 上线了</title>
-      <link>https://weekendproject.space/posts/webfollow/</link>
+      <link>https://weekendproject.online/posts/webfollow/</link>
       <pubDate>Mon, 08 Aug 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://weekendproject.space/posts/webfollow/</guid>
+      <guid>https://weekendproject.online/posts/webfollow/</guid>
       <description>开发用时:36小时+ 费用:200元+  经过一周的时间的开发，第一个小项目webfollow.cc 上线了，它是一个结合rss订阅和newsletter的应用，它可以将你订阅的网站rss信息过滤后发送到你的邮箱，这是一个简短的介绍：
  少即是多,定制属于你的专属信息
  网站介绍 主页部分内容分成了
@@ -151,10 +138,10 @@ user：
     
     <item>
       <title>一个idea列表</title>
-      <link>https://weekendproject.space/posts/idea-list/</link>
+      <link>https://weekendproject.online/posts/idea-list/</link>
       <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://weekendproject.space/posts/idea-list/</guid>
+      <guid>https://weekendproject.online/posts/idea-list/</guid>
       <description>你投票我实现 我有一个 todo 列表里面有很多有意思的想法，它们只是想法就待在那里，也许你也有这么一个 todo 列表。
 这是从我的想法列表里筛选出的几个
 你可以为它投票，我会从里面筛选出排名最高的几个然后进行选择 ，用周末的时间尝试把它实现
@@ -170,10 +157,10 @@ user：
     
     <item>
       <title>Weekend Project 上线了</title>
-      <link>https://weekendproject.space/posts/weekend-project-web-site/</link>
+      <link>https://weekendproject.online/posts/weekend-project-web-site/</link>
       <pubDate>Fri, 29 Jul 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://weekendproject.space/posts/weekend-project-web-site/</guid>
+      <guid>https://weekendproject.online/posts/weekend-project-web-site/</guid>
       <description>本站采用了Hugo 进行驱动 ，主题采用的是 hugo-paper， 在github进行托管， 花费了2个小时的时间进行选型搭建。
 基地 这里是一个发布项目及通知的基地，后面我会尝试加入订阅功能，这样可以更方便的找到我，在国内如rss 和email 使用频率相对较低，但是微信公众号我个人不太喜欢，如果你有好的推荐也可以联系我，这是我的邮箱 c3VueHpnQGdtYWlsLmNvbQ==
 目前打算先把栏目分成两类一类是周末项目，一类是周末项目相关的博客，在项目里面会谈到思路和效果展示等，博客会更新一些项目后续有趣的一些事情

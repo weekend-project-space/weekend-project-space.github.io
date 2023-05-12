@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Series on Weekend Project</title>
-    <link>https://weekendproject.space/series/</link>
+    <link>https://weekendproject.online/series/</link>
     <description>Recent content in Series on Weekend Project</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>Copyright © 2022</copyright><atom:link href="https://weekendproject.space/series/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Copyright © 2022</copyright><atom:link href="https://weekendproject.online/series/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>GPT on Weekend Project</title>
-    <link>https://weekendproject.space/tags/gpt/</link>
+    <link>https://weekendproject.online/tags/gpt/</link>
     <description>Recent content in GPT on Weekend Project</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright © 2022</copyright>
-    <lastBuildDate>Fri, 21 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://weekendproject.space/tags/gpt/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 21 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://weekendproject.online/tags/gpt/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bootstrap GPT 如何使用</title>
-      <link>https://weekendproject.space/posts/bootstrap-gpt-start/</link>
+      <link>https://weekendproject.online/posts/bootstrap-gpt-start/</link>
       <pubDate>Fri, 21 Apr 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://weekendproject.space/posts/bootstrap-gpt-start/</guid>
+      <guid>https://weekendproject.online/posts/bootstrap-gpt-start/</guid>
       <description>第一步： 访问 https://github.com/weekend-project-space/bootstrap-gp 点击 code download zip 按钮 或通过命令行下载
 &amp;gt; git clone https://github.com/weekend-project-space/bootstrap-gpt.git 第二步： 进入项目文件夹 或命令行进入 , 安装依赖（ 请保证本地有 python3 的运行环境）, 配置自己的 api-key
 &amp;gt; cd ./bootstrap-gpt &amp;gt; pip install openai &amp;amp;&amp;amp; pip install beautifulsoup4 &amp;amp;&amp;amp; pip install jsonpath &amp;amp;&amp;amp; pip install jinja2 在.env 文件修改 api-key
@@ -25,10 +25,10 @@ Welcome to Bootstrap GPT sample &amp;gt; use summarize &amp;gt; 然后可以输�
     
     <item>
       <title>Bootstrap GPT 是什么</title>
-      <link>https://weekendproject.space/posts/bootstrap-gpt/</link>
+      <link>https://weekendproject.online/posts/bootstrap-gpt/</link>
       <pubDate>Fri, 21 Apr 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://weekendproject.space/posts/bootstrap-gpt/</guid>
+      <guid>https://weekendproject.online/posts/bootstrap-gpt/</guid>
       <description>故事的开始 前些日子受 auto gpt 的启发，这次的输出当作下次的输入，想着能否将 prompts 当作一种编程的手段，而且让其支持联网 ，比如 写一个 ppt 或 文档 或总结网页内容 等等 让它去引导你，就像一个问卷调查 然后给你生成你需要的结果。
 然后当天下午就写了一个出来是 cmd 的交互方式，验证成功
 后面在社区有人回复说网络的方式更好，然后就又增加了 http 的方式，这里有一个展示视频可以展示现在它能做的事情
@@ -37,19 +37,6 @@ Welcome to Bootstrap GPT sample &amp;gt; use summarize &amp;gt; 然后可以输�
 ls
 summarize : 总结网页 v2-hot : 查看v2最近热门帖子讲了什么 while : 循环次数测试 hot : 查看webfollow最近热门帖子讲了什么 friend : chat 聊天 引导助手 writecode : code boot spider : wiki 引导助手 然后 使用 use summarize 这个功能作为演示， bootstarp-gpt 会加载 bootstarp 下的文件，这里有一个总结网页讲了什么的 summarize.json 文件
 { &amp;#34;author&amp;#34;: &amp;#34;ruidong&amp;#34;, &amp;#34;date&amp;#34;: &amp;#34;2023-04-19&amp;#34;, &amp;#34;version&amp;#34;: &amp;#34;0.1&amp;#34;, &amp;#34;description&amp;#34;: &amp;#34;总结网页&amp;#34;, &amp;#34;boot&amp;#34;: [ { &amp;#34;w&amp;#34;: &amp;#34;请输入网址&amp;#34;, &amp;#34;r&amp;#34;: &amp;#34;r0&amp;#34;, &amp;#34;p&amp;#34;: &amp;#34;spider:{{r0}}:select=.</description>
-    </item>
-    
-    <item>
-      <title>ChatGPT免费在线体验网址</title>
-      <link>https://weekendproject.space/posts/chat-gpt-free/</link>
-      <pubDate>Wed, 22 Mar 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://weekendproject.space/posts/chat-gpt-free/</guid>
-      <description>今天在网上逛社区的时候发现了一个ChatGPT 在线体验网站收集列表的项目
-里面收集了很多可以无需代理、无需翻墙 、无需 KEY 的三方站点，这对于国内的朋友或许有很大的帮助。
-对于想体验更多 ai 相关应用的朋友可以试试这个网站aihub.bitmagic收录了近千个 ai 相关的应用与模型。
-摘抄过来前 100 个
- [⭐⭐] https://chat.binjie.site:7777 [⭐⭐] https://chat.yqcloud.top [⭐⭐] https://www.aitoolgpt.com [⭐⭐] https://www.chatsverse.xyz [⭐] https://chat.ninvfeng.xyz [⭐] http://chat.apigpt.cn [⭐] http://chatgpt.mhacd.com [⭐] http://gpt.mxnf.store [⭐] http://itecheasy.com.cn [⭐] https://1.hktwilight.eu.org [⭐] https://2618.eu.org [⭐] https://6758tkma.chattobot.xyz [⭐] https://676888.xyz [⭐] https://94gpt.com [⭐] https://ai-toolbox.codefuture.top [⭐] https://ai.6ix.com [⭐] https://ai.aiyuanyuzhou.com [⭐] https://ai.anlu.fun [⭐] https://ai.bigtear.com [⭐] https://ai.chilfish.top [⭐] https://ai.czhuangjia.top [⭐] https://ai.gjwa.ml [⭐] https://ai.hixqz.com [⭐] https://ai.i-misaka.com [⭐] https://ai.jiangyuesong.me [⭐] https://ai.liuks.cn [⭐] https://ai.lpsee.com [⭐] https://ai.</description>
     </item>
     
   </channel>

@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>周末项目数据 on Weekend Project</title>
-    <link>https://weekendproject.space/tags/%E5%91%A8%E6%9C%AB%E9%A1%B9%E7%9B%AE%E6%95%B0%E6%8D%AE/</link>
+    <link>https://weekendproject.online/tags/%E5%91%A8%E6%9C%AB%E9%A1%B9%E7%9B%AE%E6%95%B0%E6%8D%AE/</link>
     <description>Recent content in 周末项目数据 on Weekend Project</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright © 2022</copyright>
-    <lastBuildDate>Wed, 08 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://weekendproject.space/tags/%E5%91%A8%E6%9C%AB%E9%A1%B9%E7%9B%AE%E6%95%B0%E6%8D%AE/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 08 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://weekendproject.online/tags/%E5%91%A8%E6%9C%AB%E9%A1%B9%E7%9B%AE%E6%95%B0%E6%8D%AE/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ChatGPT小工具(用Chat GPT 编程?)</title>
-      <link>https://weekendproject.space/posts/chat-gpt-tools/</link>
+      <link>https://weekendproject.online/posts/chat-gpt-tools/</link>
       <pubDate>Wed, 08 Mar 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://weekendproject.space/posts/chat-gpt-tools/</guid>
+      <guid>https://weekendproject.online/posts/chat-gpt-tools/</guid>
       <description>最近写了2个Chat GPT的小玩具，有网页版，也有浏览器插件，源码和效果在首页有链接，总体来说开发这种小工具还是很简单的，官方提供了api使用文档，只需要copy过来做一个简单的用户界面即可，现在网上有很多套壳版，最开始使用体验还不错,不过现在大多数情况下都在用自己开发的浏览器插件 在浏览器任意位置 ctrl+shirt+x就可以欢迎对话。
 用Chat GPT 编程*
 对了，现在写代码开始让Chat GPT 给输出一个基本的大纲，然后在进行修改和调整，lisp4js这个项目的parse模块就用到了GPT编写代码大纲，然后手动编写了对字符串类型和symbol类型的支持，这大大提高了编码效率；evaluate模块最开始是用Chat GPT生成的，但对于自定义函数的支持并不友好，及没有作用域，于是全部删除开始手动编码和调试，然后今天完成了初版，以前是面向谷歌编程以后要学习面向Chat GPT编程了及学习更多的prompt，编码的入门门槛也在此降低了许多，用人类语言告诉Chat GPT 然后他告诉你对应的代码，然后再做微调即可，我们需要做的就是学会和其更高效的对话。
@@ -28,20 +28,20 @@ user：
     
     <item>
       <title>上阮老师的科技爱好者周刊了？</title>
-      <link>https://weekendproject.space/posts/webfollow-ruanyifeng-02-03/</link>
+      <link>https://weekendproject.online/posts/webfollow-ruanyifeng-02-03/</link>
       <pubDate>Thu, 09 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://weekendproject.space/posts/webfollow-ruanyifeng-02-03/</guid>
+      <guid>https://weekendproject.online/posts/webfollow-ruanyifeng-02-03/</guid>
       <description>2月3号，早上像往常一样上网站看订阅的信息，但怎么都加载不出来，看了一下后台数据库连接老是超时，起初以为是数据库数据多了的缘故，于是在线下测试了一下，很流畅，然后就向往常一样看了下访问统计，一看惊呆，2000+pv 100+访客，网站被攻击了吗？看了下来源，原来是来自阮老师的网站，一切就都联系起来了，然后紧急对网站做了改造，加了几处缓存，网站暂时可用了， 关于上阮老师周刊这件事,起因是三周前在 github 给阮老师周刊投了搞，于是 科技爱好者周刊 240 期 教育年限可以缩短吗？ 便有了 webfollow 的名字，感谢阮老师！
 最近几天累积pv近3w,相当于之前两个月的访问量，不得不感叹阮老师流量挺高的， 最近新增注册用户300+ 访客注册转化率12%-15%， 对这个数据还是比较满意的；关于更好的长期提供服务这块收费方式一直不明朗，近期不打算收费，但也有考虑收费的形式: &amp;ldquo;通过过滤信息的方式给用户推送高价值的订阅RSS信息 或则私有化部署的形式获取一些收益&amp;rdquo;，这一切还都停留在想法阶段，目前能做的就是把功能做的简单 高效 好用 易用 美观 和三方做出差异来，RSS阅读器这个类别下有很多同质化产品 做的比较大的有 feedly、inoreader 、 Reeder等产品，订阅源相同的情况下 他们目前在组织内容形式上没有什么差异，更多是内容的布局有所不同，打算后期在组织内容的形式上做出些好玩好用的东西来，如果你对这块感兴趣可以和我联系。</description>
     </item>
     
     <item>
       <title>WebFollow 22年10月份最新一组数据</title>
-      <link>https://weekendproject.space/posts/webfollow-data-22-10-20/</link>
+      <link>https://weekendproject.online/posts/webfollow-data-22-10-20/</link>
       <pubDate>Sat, 08 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://weekendproject.space/posts/webfollow-data-22-10-20/</guid>
+      <guid>https://weekendproject.online/posts/webfollow-data-22-10-20/</guid>
       <description>访问数据
  22-10-08 上线两个月   累计 PV 13,155 UV 2,502 Feed 304
   22-10-18 上线两个月10天   累计PV 19,759 UV 3,030 Feed 495

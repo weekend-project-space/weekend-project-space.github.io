@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Weekend Project</title>
-    <link>https://weekendproject.space/categories/</link>
+    <link>https://weekendproject.online/categories/</link>
     <description>Recent content in Categories on Weekend Project</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright © 2022</copyright>
-    <lastBuildDate>Fri, 21 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://weekendproject.space/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 21 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://weekendproject.online/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
